@@ -1,5 +1,4 @@
 Xi_chen, Postgraduate student in Dalian Maritime University.
-Major in Electronic Information Engineering in Undergraduate stage 
 and Information and Communication Engineering in Postgraduate stage.
 
 <!---
