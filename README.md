@@ -1,5 +1,5 @@
 Xi_chen, Postgraduate student in Dalian Maritime University.
-and Information and Communication Engineering in Postgraduate stage.
+Major in Information and Communication Engineering in Postgraduate stage.
 
 <!---
 Xichen297/Xichen297 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
